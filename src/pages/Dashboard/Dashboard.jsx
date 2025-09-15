@@ -26,6 +26,7 @@ function Dashboard() {
   // Exemplo de como acessar os dados agrupados:
   useEffect(() => {
     if (Object.keys(timeGroupedData.byDay).length > 0) {
+      console.log("Dados agrupados por hora:", timeGroupedData.byHour);
       console.log("Dados agrupados por dia:", timeGroupedData.byDay);
       console.log("Dados agrupados por semana:", timeGroupedData.byWeek);
     }

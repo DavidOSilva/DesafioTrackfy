@@ -1,4651 +1,4651 @@
 {
   "dadosPessoas": [
     {
-      "data": "2025-08-01",
+      "dataHora": "2025-08-01T10:30:00",
       "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-01",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Gaveteiro de Andaimes",
       "funcao": "Pintor",
       "quantidade": 2
     },
     {
-      "data": "2025-08-02",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-02",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-03",
+      "dataHora": "2025-08-01T13:45:00",
       "area": "Oficina Central",
       "funcao": "Caldeireiro",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Tanques",
-      "funcao": "Pintor",
       "quantidade": 17
     },
     {
-      "data": "2025-08-03",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
+      "dataHora": "2025-08-01T11:30:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-01T12:45:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
       "quantidade": 1
     },
     {
-      "data": "2025-08-03",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-03",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-04",
+      "dataHora": "2025-08-01T18:00:00",
       "area": "Oficina Central",
       "funcao": "Operador",
-      "quantidade": 3
+      "quantidade": 18
     },
     {
-      "data": "2025-08-04",
+      "dataHora": "2025-08-01T17:00:00",
       "area": "Galpão XYZ",
       "funcao": "Pintor",
-      "quantidade": 12
+      "quantidade": 1
     },
     {
-      "data": "2025-08-04",
+      "dataHora": "2025-08-01T08:45:00",
       "area": "Galpão XYZ",
       "funcao": "Caldeireiro",
       "quantidade": 7
     },
     {
-      "data": "2025-08-04",
+      "dataHora": "2025-08-01T12:45:00",
       "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-01T15:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-01T15:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-01T08:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-01T16:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-01T11:15:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Mecânico",
       "quantidade": 20
     },
     {
-      "data": "2025-08-04",
-      "area": "Galpão XYZ",
+      "dataHora": "2025-08-01T15:00:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Eletricista",
       "quantidade": 14
     },
     {
-      "data": "2025-08-04",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-04",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-05",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-06",
+      "dataHora": "2025-08-01T08:00:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Operador",
       "quantidade": 12
     },
     {
-      "data": "2025-08-06",
+      "dataHora": "2025-08-01T11:30:00",
       "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-06",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Gaveteiro de Andaimes",
       "funcao": "Pintor",
       "quantidade": 2
     },
     {
-      "data": "2025-08-07",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-07",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T17:30:00",
       "area": "Bomba 178",
       "funcao": "Caldeireiro",
       "quantidade": 9
     },
     {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T17:15:00",
       "area": "Bomba 178",
       "funcao": "Mecânico",
-      "quantidade": 3
+      "quantidade": 15
     },
     {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T14:30:00",
       "area": "Bomba 178",
       "funcao": "Eletricista",
-      "quantidade": 18
+      "quantidade": 16
     },
     {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T14:30:00",
       "area": "Bomba 178",
       "funcao": "Operador",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-08",
-      "area": "Tanques",
-      "funcao": "Pintor",
       "quantidade": 19
     },
     {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T16:45:00",
       "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 12
+      "funcao": "Pintor",
+      "quantidade": 11
     },
     {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T17:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-01T14:30:00",
       "area": "Tanques",
       "funcao": "Mecânico",
       "quantidade": 14
     },
     {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T14:45:00",
       "area": "Tanques",
       "funcao": "Eletricista",
-      "quantidade": 13
+      "quantidade": 15
     },
     {
-      "data": "2025-08-08",
+      "dataHora": "2025-08-01T15:15:00",
       "area": "Tanques",
       "funcao": "Operador",
-      "quantidade": 9
+      "quantidade": 1
     },
     {
-      "data": "2025-08-09",
+      "dataHora": "2025-08-02T18:30:00",
       "area": "Oficina Central",
       "funcao": "Pintor",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
       "quantidade": 8
     },
     {
-      "data": "2025-08-09",
+      "dataHora": "2025-08-02T13:30:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-02T14:00:00",
       "area": "Oficina Central",
       "funcao": "Mecânico",
-      "quantidade": 14
+      "quantidade": 11
     },
     {
-      "data": "2025-08-09",
+      "dataHora": "2025-08-02T11:15:00",
       "area": "Oficina Central",
       "funcao": "Eletricista",
-      "quantidade": 20
+      "quantidade": 17
     },
     {
-      "data": "2025-08-09",
+      "dataHora": "2025-08-02T11:15:00",
       "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-02T09:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-02T11:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-02T17:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-02T08:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-02T12:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-02T10:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-02T17:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-02T17:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-02T08:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-02T09:30:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Operador",
       "quantidade": 10
     },
     {
-      "data": "2025-08-09",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-09",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-10",
+      "dataHora": "2025-08-02T15:45:00",
       "area": "Bomba 178",
       "funcao": "Pintor",
       "quantidade": 9
     },
     {
-      "data": "2025-08-10",
+      "dataHora": "2025-08-02T17:00:00",
       "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-10",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-11",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Galpão XYZ",
       "funcao": "Caldeireiro",
       "quantidade": 9
     },
     {
-      "data": "2025-08-12",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-12",
+      "dataHora": "2025-08-02T17:45:00",
       "area": "Bomba 178",
       "funcao": "Mecânico",
       "quantidade": 3
     },
     {
-      "data": "2025-08-12",
+      "dataHora": "2025-08-02T12:00:00",
       "area": "Bomba 178",
       "funcao": "Eletricista",
-      "quantidade": 6
+      "quantidade": 15
     },
     {
-      "data": "2025-08-12",
+      "dataHora": "2025-08-02T09:15:00",
       "area": "Bomba 178",
       "funcao": "Operador",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-12",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
       "quantidade": 13
     },
     {
-      "data": "2025-08-13",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-13",
+      "dataHora": "2025-08-02T08:15:00",
       "area": "Tanques",
       "funcao": "Pintor",
       "quantidade": 13
     },
     {
-      "data": "2025-08-13",
+      "dataHora": "2025-08-02T16:15:00",
       "area": "Tanques",
       "funcao": "Caldeireiro",
-      "quantidade": 10
+      "quantidade": 13
     },
     {
-      "data": "2025-08-13",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-13",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-14",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-15",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-15",
+      "dataHora": "2025-08-02T13:15:00",
       "area": "Tanques",
       "funcao": "Mecânico",
       "quantidade": 2
     },
     {
-      "data": "2025-08-15",
+      "dataHora": "2025-08-02T11:30:00",
       "area": "Tanques",
       "funcao": "Eletricista",
       "quantidade": 6
     },
     {
-      "data": "2025-08-15",
+      "dataHora": "2025-08-02T17:00:00",
       "area": "Tanques",
       "funcao": "Operador",
-      "quantidade": 12
+      "quantidade": 2
     },
     {
-      "data": "2025-08-16",
+      "dataHora": "2025-08-03T13:00:00",
       "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-16",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Tanques",
       "funcao": "Pintor",
       "quantidade": 19
     },
     {
-      "data": "2025-08-17",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-17",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-18",
+      "dataHora": "2025-08-03T12:15:00",
       "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 9
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-18",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Gaveteiro de Andaimes",
       "funcao": "Caldeireiro",
       "quantidade": 4
     },
     {
-      "data": "2025-08-19",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-03T17:00:00",
+      "area": "Oficina Central",
       "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-03T12:30:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
       "quantidade": 13
     },
     {
-      "data": "2025-08-19",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-03T11:15:00",
+      "area": "Oficina Central",
       "funcao": "Operador",
       "quantidade": 17
     },
     {
-      "data": "2025-08-19",
+      "dataHora": "2025-08-03T18:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-03T09:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-03T16:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-03T16:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-03T10:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-03T13:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-03T15:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-03T08:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-03T12:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-03T15:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-03T15:30:00",
       "area": "Bomba 178",
       "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-03T15:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
       "quantidade": 13
     },
     {
-      "data": "2025-08-19",
+      "dataHora": "2025-08-03T15:00:00",
       "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-03T10:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-03T09:30:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-03T16:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-03T11:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-03T18:00:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-03T13:30:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-03T16:30:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-04T13:30:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-04T15:00:00",
+      "area": "Oficina Central",
       "funcao": "Caldeireiro",
       "quantidade": 6
     },
     {
-      "data": "2025-08-19",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-04T13:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-04T16:30:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-04T11:30:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-04T15:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-04T18:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-04T15:30:00",
+      "area": "Galpão XYZ",
       "funcao": "Mecânico",
       "quantidade": 2
     },
     {
-      "data": "2025-08-19",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-04T09:00:00",
+      "area": "Galpão XYZ",
       "funcao": "Eletricista",
-      "quantidade": 18
+      "quantidade": 6
     },
     {
-      "data": "2025-08-19",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-04T13:15:00",
+      "area": "Galpão XYZ",
       "funcao": "Operador",
-      "quantidade": 1
+      "quantidade": 15
     },
     {
-      "data": "2025-08-19",
-      "area": "Tanques",
+      "dataHora": "2025-08-04T13:45:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Pintor",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-19",
-      "area": "Tanques",
-      "funcao": "Operador",
       "quantidade": 17
     },
     {
-      "data": "2025-08-20",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-20",
+      "dataHora": "2025-08-04T16:45:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Caldeireiro",
-      "quantidade": 10
+      "quantidade": 3
     },
     {
-      "data": "2025-08-20",
+      "dataHora": "2025-08-04T11:45:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Mecânico",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-20",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
       "quantidade": 11
     },
     {
-      "data": "2025-08-20",
+      "dataHora": "2025-08-04T15:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-04T08:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-04T14:00:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-04T15:30:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-04T10:15:00",
       "area": "Bomba 178",
       "funcao": "Mecânico",
       "quantidade": 12
     },
     {
-      "data": "2025-08-20",
+      "dataHora": "2025-08-04T15:15:00",
       "area": "Bomba 178",
       "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-04T08:15:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
       "quantidade": 14
     },
     {
-      "data": "2025-08-20",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-04T12:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-04T13:45:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-04T13:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-04T16:00:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-04T08:00:00",
+      "area": "Tanques",
       "funcao": "Operador",
       "quantidade": 16
     },
     {
-      "data": "2025-08-20",
-      "area": "Tanques",
+      "dataHora": "2025-08-05T17:45:00",
+      "area": "Oficina Central",
       "funcao": "Pintor",
-      "quantidade": 17
+      "quantidade": 14
     },
     {
-      "data": "2025-08-20",
-      "area": "Tanques",
+      "dataHora": "2025-08-05T17:15:00",
+      "area": "Oficina Central",
       "funcao": "Caldeireiro",
-      "quantidade": 19
+      "quantidade": 4
     },
     {
-      "data": "2025-08-20",
-      "area": "Tanques",
+      "dataHora": "2025-08-05T11:30:00",
+      "area": "Oficina Central",
       "funcao": "Mecânico",
-      "quantidade": 18
+      "quantidade": 12
     },
     {
-      "data": "2025-08-20",
-      "area": "Tanques",
+      "dataHora": "2025-08-05T14:45:00",
+      "area": "Oficina Central",
       "funcao": "Eletricista",
       "quantidade": 13
     },
     {
-      "data": "2025-08-20",
-      "area": "Tanques",
+      "dataHora": "2025-08-05T09:15:00",
+      "area": "Oficina Central",
       "funcao": "Operador",
-      "quantidade": 4
+      "quantidade": 20
     },
     {
-      "data": "2025-08-21",
+      "dataHora": "2025-08-05T08:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-05T17:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-05T18:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-05T16:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-05T15:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-05T17:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-05T12:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-05T12:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-05T17:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-05T17:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-05T11:45:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-05T18:15:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-05T17:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-05T18:15:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-05T16:15:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-05T17:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-05T11:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-05T09:00:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-05T09:00:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-05T18:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-06T16:45:00",
       "area": "Oficina Central",
       "funcao": "Pintor",
       "quantidade": 9
     },
     {
-      "data": "2025-08-21",
+      "dataHora": "2025-08-06T08:45:00",
       "area": "Oficina Central",
       "funcao": "Caldeireiro",
-      "quantidade": 9
+      "quantidade": 16
     },
     {
-      "data": "2025-08-21",
+      "dataHora": "2025-08-06T17:30:00",
       "area": "Oficina Central",
       "funcao": "Mecânico",
       "quantidade": 4
     },
     {
-      "data": "2025-08-21",
+      "dataHora": "2025-08-06T15:00:00",
       "area": "Oficina Central",
       "funcao": "Eletricista",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
       "quantidade": 11
     },
     {
-      "data": "2025-08-21",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Galpão XYZ",
+      "dataHora": "2025-08-06T11:45:00",
+      "area": "Oficina Central",
       "funcao": "Operador",
-      "quantidade": 2
+      "quantidade": 3
     },
     {
-      "data": "2025-08-21",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-06T13:15:00",
+      "area": "Galpão XYZ",
       "funcao": "Pintor",
-      "quantidade": 1
+      "quantidade": 12
     },
     {
-      "data": "2025-08-21",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-06T15:45:00",
+      "area": "Galpão XYZ",
       "funcao": "Caldeireiro",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
       "quantidade": 11
     },
     {
-      "data": "2025-08-21",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-06T12:30:00",
+      "area": "Galpão XYZ",
       "funcao": "Mecânico",
       "quantidade": 17
     },
     {
-      "data": "2025-08-21",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-21",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Oficina Central",
+      "dataHora": "2025-08-06T17:00:00",
+      "area": "Galpão XYZ",
       "funcao": "Eletricista",
       "quantidade": 6
     },
     {
-      "data": "2025-08-22",
-      "area": "Oficina Central",
+      "dataHora": "2025-08-06T17:00:00",
+      "area": "Galpão XYZ",
       "funcao": "Operador",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
       "quantidade": 16
     },
     {
-      "data": "2025-08-22",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T11:00:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Pintor",
-      "quantidade": 5
+      "quantidade": 16
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T16:00:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Caldeireiro",
-      "quantidade": 12
+      "quantidade": 16
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T10:00:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Mecânico",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
       "quantidade": 13
     },
     {
-      "data": "2025-08-22",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-22",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-06T11:30:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Eletricista",
       "quantidade": 4
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T14:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-06T11:45:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-06T14:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-06T17:45:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-06T17:45:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-06T14:15:00",
       "area": "Bomba 178",
       "funcao": "Operador",
-      "quantidade": 7
+      "quantidade": 1
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T11:00:00",
       "area": "Tanques",
       "funcao": "Pintor",
-      "quantidade": 16
+      "quantidade": 2
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T16:30:00",
       "area": "Tanques",
       "funcao": "Caldeireiro",
       "quantidade": 9
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T11:15:00",
       "area": "Tanques",
       "funcao": "Mecânico",
-      "quantidade": 4
+      "quantidade": 12
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T15:15:00",
       "area": "Tanques",
       "funcao": "Eletricista",
-      "quantidade": 4
+      "quantidade": 14
     },
     {
-      "data": "2025-08-22",
+      "dataHora": "2025-08-06T12:00:00",
       "area": "Tanques",
       "funcao": "Operador",
-      "quantidade": 4
+      "quantidade": 13
     },
     {
-      "data": "2025-08-23",
+      "dataHora": "2025-08-07T18:45:00",
       "area": "Oficina Central",
       "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-07T14:30:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-07T08:30:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-07T12:45:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-07T10:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-07T12:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-07T16:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-07T15:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
       "quantidade": 18
     },
     {
-      "data": "2025-08-23",
-      "area": "Oficina Central",
+      "dataHora": "2025-08-07T15:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-07T16:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-07T18:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-07T09:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-07T13:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-07T11:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-07T15:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-07T17:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-07T09:00:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-07T15:15:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-07T11:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-07T18:30:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-07T08:15:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-07T12:15:00",
+      "area": "Tanques",
       "funcao": "Caldeireiro",
       "quantidade": 3
     },
     {
-      "data": "2025-08-23",
-      "area": "Oficina Central",
+      "dataHora": "2025-08-07T11:00:00",
+      "area": "Tanques",
       "funcao": "Mecânico",
-      "quantidade": 20
+      "quantidade": 8
     },
     {
-      "data": "2025-08-23",
+      "dataHora": "2025-08-07T08:15:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-07T09:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-08T16:45:00",
       "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-08T09:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-08T16:15:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-08T15:00:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-08T11:15:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-08T11:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-08T09:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-08T12:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-08T15:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-08T09:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-08T18:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-08T11:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-08T13:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-08T08:15:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Eletricista",
       "quantidade": 5
     },
     {
-      "data": "2025-08-23",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-23",
+      "dataHora": "2025-08-08T15:00:00",
       "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-23",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Galpão XYZ",
       "funcao": "Operador",
       "quantidade": 17
     },
     {
-      "data": "2025-08-24",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-24",
+      "dataHora": "2025-08-08T10:45:00",
       "area": "Bomba 178",
       "funcao": "Pintor",
       "quantidade": 10
     },
     {
-      "data": "2025-08-24",
+      "dataHora": "2025-08-08T11:30:00",
       "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Tanques",
       "funcao": "Caldeireiro",
       "quantidade": 5
     },
     {
-      "data": "2025-08-24",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-24",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-25",
+      "dataHora": "2025-08-08T11:00:00",
       "area": "Bomba 178",
-      "funcao": "Pintor",
+      "funcao": "Mecânico",
       "quantidade": 6
     },
     {
-      "data": "2025-08-25",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-25",
+      "dataHora": "2025-08-08T17:00:00",
       "area": "Bomba 178",
       "funcao": "Eletricista",
       "quantidade": 13
     },
     {
-      "data": "2025-08-25",
+      "dataHora": "2025-08-08T12:45:00",
       "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-25",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Gaveteiro de Andaimes",
       "funcao": "Operador",
       "quantidade": 7
     },
     {
-      "data": "2025-08-26",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-08T14:00:00",
+      "area": "Tanques",
       "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-08T16:30:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
       "quantidade": 6
     },
     {
-      "data": "2025-08-26",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-26",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-26",
+      "dataHora": "2025-08-08T10:45:00",
       "area": "Tanques",
       "funcao": "Mecânico",
-      "quantidade": 11
+      "quantidade": 4
     },
     {
-      "data": "2025-08-26",
+      "dataHora": "2025-08-08T17:15:00",
       "area": "Tanques",
       "funcao": "Eletricista",
-      "quantidade": 20
+      "quantidade": 4
     },
     {
-      "data": "2025-08-26",
+      "dataHora": "2025-08-08T14:00:00",
       "area": "Tanques",
       "funcao": "Operador",
-      "quantidade": 15
+      "quantidade": 12
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-09T08:00:00",
       "area": "Oficina Central",
       "funcao": "Pintor",
       "quantidade": 9
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-09T11:15:00",
       "area": "Oficina Central",
       "funcao": "Caldeireiro",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 15
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 1
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 20
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-27",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
       "quantidade": 16
     },
     {
-      "data": "2025-08-27",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-09T14:15:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-09T13:15:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-09T18:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-09T16:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-09T09:15:00",
+      "area": "Galpão XYZ",
       "funcao": "Caldeireiro",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-09T17:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-09T10:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
       "quantidade": 12
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-09T09:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-09T10:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-09T13:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-09T17:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-09T10:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-09T16:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-09T18:00:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-09T17:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-09T09:45:00",
       "area": "Bomba 178",
       "funcao": "Mecânico",
       "quantidade": 10
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-09T12:45:00",
       "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-09T11:30:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-09T14:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-09T13:30:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-09T18:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-09T10:00:00",
+      "area": "Tanques",
       "funcao": "Eletricista",
       "quantidade": 1
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-09T10:00:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-10T16:45:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-10T12:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-10T16:45:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-10T11:15:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-10T12:45:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-10T08:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-10T09:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-10T08:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-10T13:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-10T14:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-10T18:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-10T15:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-10T17:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-10T12:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-10T14:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-10T17:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-10T17:15:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-10T13:30:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-10T16:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-10T12:00:00",
       "area": "Bomba 178",
       "funcao": "Operador",
-      "quantidade": 5
+      "quantidade": 19
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-10T08:30:00",
       "area": "Tanques",
       "funcao": "Pintor",
-      "quantidade": 9
+      "quantidade": 18
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-10T16:45:00",
       "area": "Tanques",
       "funcao": "Caldeireiro",
       "quantidade": 8
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-10T13:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-10T13:15:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-10T15:30:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-11T08:15:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-11T17:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-11T16:45:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-11T16:45:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-11T15:15:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-11T08:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-11T14:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-11T12:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-11T18:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-11T09:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-11T15:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-11T15:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-11T16:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-11T10:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-11T08:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-11T12:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-11T15:30:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-11T09:30:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-11T08:15:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-11T15:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-11T17:15:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-11T15:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-11T13:45:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-11T18:30:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-11T17:00:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-12T11:30:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-12T13:45:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-12T14:45:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-12T14:30:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-12T09:45:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-12T17:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-12T12:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-12T08:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-12T17:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-12T15:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-12T11:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-12T11:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-12T10:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-12T14:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-12T11:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-12T16:00:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-12T09:00:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-12T09:45:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-12T18:30:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-12T11:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-12T14:00:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-12T09:15:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-12T10:00:00",
       "area": "Tanques",
       "funcao": "Mecânico",
       "quantidade": 14
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-12T16:00:00",
       "area": "Tanques",
       "funcao": "Eletricista",
-      "quantidade": 2
+      "quantidade": 15
     },
     {
-      "data": "2025-08-27",
+      "dataHora": "2025-08-12T16:45:00",
       "area": "Tanques",
       "funcao": "Operador",
-      "quantidade": 6
+      "quantidade": 3
     },
     {
-      "data": "2025-08-28",
+      "dataHora": "2025-08-13T12:45:00",
       "area": "Oficina Central",
       "funcao": "Pintor",
-      "quantidade": 10
+      "quantidade": 16
     },
     {
-      "data": "2025-08-28",
+      "dataHora": "2025-08-13T08:30:00",
       "area": "Oficina Central",
       "funcao": "Caldeireiro",
-      "quantidade": 20
+      "quantidade": 9
     },
     {
-      "data": "2025-08-28",
+      "dataHora": "2025-08-13T13:30:00",
       "area": "Oficina Central",
       "funcao": "Mecânico",
       "quantidade": 5
     },
     {
-      "data": "2025-08-28",
+      "dataHora": "2025-08-13T10:30:00",
       "area": "Oficina Central",
       "funcao": "Eletricista",
-      "quantidade": 11
+      "quantidade": 2
     },
     {
-      "data": "2025-08-28",
+      "dataHora": "2025-08-13T10:00:00",
       "area": "Oficina Central",
       "funcao": "Operador",
-      "quantidade": 7
+      "quantidade": 14
     },
     {
-      "data": "2025-08-28",
+      "dataHora": "2025-08-13T14:00:00",
       "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-13T15:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-13T17:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-13T10:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-13T14:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-13T13:00:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Pintor",
       "quantidade": 10
     },
     {
-      "data": "2025-08-28",
-      "area": "Galpão XYZ",
+      "dataHora": "2025-08-13T15:15:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Caldeireiro",
-      "quantidade": 20
+      "quantidade": 19
     },
     {
-      "data": "2025-08-28",
-      "area": "Galpão XYZ",
+      "dataHora": "2025-08-13T16:45:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Mecânico",
-      "quantidade": 8
+      "quantidade": 14
     },
     {
-      "data": "2025-08-28",
-      "area": "Galpão XYZ",
+      "dataHora": "2025-08-13T08:15:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Eletricista",
       "quantidade": 12
     },
     {
-      "data": "2025-08-28",
+      "dataHora": "2025-08-13T15:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-13T16:00:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-13T17:30:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-13T16:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-13T14:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-13T11:15:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-13T16:45:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-13T10:15:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-13T11:30:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-13T12:45:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-13T12:30:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-14T11:00:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-14T11:30:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-14T16:45:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-14T17:30:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-14T18:45:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-14T12:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-14T10:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-14T08:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-14T14:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-14T13:45:00",
       "area": "Galpão XYZ",
       "funcao": "Operador",
       "quantidade": 15
     },
     {
-      "data": "2025-08-28",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 2
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
-      "quantidade": 14
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Bomba 178",
-      "funcao": "Pintor",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Bomba 178",
-      "funcao": "Operador",
-      "quantidade": 11
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Tanques",
-      "funcao": "Pintor",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Tanques",
-      "funcao": "Caldeireiro",
-      "quantidade": 18
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Tanques",
-      "funcao": "Mecânico",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Tanques",
-      "funcao": "Eletricista",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-28",
-      "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 16
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Oficina Central",
-      "funcao": "Operador",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Galpão XYZ",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 17
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-29",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 13
-    },
-    {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-14T14:00:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Pintor",
       "quantidade": 9
     },
     {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-14T15:00:00",
       "area": "Gaveteiro de Andaimes",
       "funcao": "Caldeireiro",
-      "quantidade": 2
+      "quantidade": 18
     },
     {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-14T10:45:00",
       "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-14T11:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-14T16:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-14T08:00:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-14T14:00:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-14T11:15:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-14T10:30:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-14T15:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-14T12:45:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-14T15:15:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-14T08:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-14T14:45:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-14T17:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-15T17:15:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-15T10:00:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-15T08:15:00",
+      "area": "Oficina Central",
       "funcao": "Mecânico",
       "quantidade": 10
     },
     {
-      "data": "2025-08-29",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-15T10:00:00",
+      "area": "Oficina Central",
       "funcao": "Eletricista",
-      "quantidade": 20
+      "quantidade": 10
     },
     {
-      "data": "2025-08-29",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-15T10:15:00",
+      "area": "Oficina Central",
       "funcao": "Operador",
-      "quantidade": 4
+      "quantidade": 12
     },
     {
-      "data": "2025-08-29",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-15T10:15:00",
+      "area": "Galpão XYZ",
       "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-15T10:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
       "quantidade": 16
     },
     {
-      "data": "2025-08-29",
-      "area": "Bomba 178",
-      "funcao": "Caldeireiro",
-      "quantidade": 4
+      "dataHora": "2025-08-15T16:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 9
     },
     {
-      "data": "2025-08-29",
-      "area": "Bomba 178",
-      "funcao": "Mecânico",
+      "dataHora": "2025-08-15T12:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
       "quantidade": 5
     },
     {
-      "data": "2025-08-29",
-      "area": "Bomba 178",
-      "funcao": "Eletricista",
-      "quantidade": 8
+      "dataHora": "2025-08-15T10:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 3
     },
     {
-      "data": "2025-08-29",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-15T17:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-15T10:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-15T11:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-15T13:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-15T16:15:00",
+      "area": "Gaveteiro de Andaimes",
       "funcao": "Operador",
       "quantidade": 6
     },
     {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-15T18:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-15T14:00:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-15T08:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-15T15:30:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-15T14:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-15T12:30:00",
       "area": "Tanques",
       "funcao": "Pintor",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-15T11:45:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-15T15:30:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-15T14:30:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-15T13:30:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-16T10:15:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-16T12:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-16T08:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-16T18:15:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-16T12:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-16T16:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-16T14:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-16T13:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-16T18:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-16T18:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-16T12:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-16T15:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-16T10:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-16T11:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-16T12:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-16T16:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-16T09:30:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-16T11:15:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-16T16:30:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-16T09:00:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-16T11:45:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-16T13:45:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-16T10:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-16T08:00:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
       "quantidade": 19
     },
     {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-16T10:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-17T10:30:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-17T11:45:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-17T18:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-17T15:45:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-17T17:45:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-17T12:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-17T09:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-17T08:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-17T08:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-17T08:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-17T10:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-17T14:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-17T13:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-17T09:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-17T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-17T10:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-17T11:15:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-17T13:30:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-17T12:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-17T09:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-17T12:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-17T13:45:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-17T13:45:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-17T08:45:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-17T17:30:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-18T11:45:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-18T09:30:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-18T10:15:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-18T11:30:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-18T14:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-18T14:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-18T09:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-18T14:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-18T16:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-18T18:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-18T15:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-18T13:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-18T10:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-18T17:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-18T14:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-18T13:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-18T14:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-18T12:30:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-18T12:45:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-18T12:15:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-18T12:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-18T16:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-18T11:00:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-18T11:30:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-18T13:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-19T15:30:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-19T11:00:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-19T11:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-19T14:00:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-19T16:15:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-19T17:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-19T09:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-19T09:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-19T08:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-19T12:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-19T10:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-19T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-19T17:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-19T12:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-19T08:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-19T10:00:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-19T16:15:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-19T18:45:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-19T13:30:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-19T13:30:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-19T15:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-19T14:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-19T14:45:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-19T11:45:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-19T09:00:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-20T09:00:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-20T13:45:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-20T11:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-20T08:45:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-20T11:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-20T18:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-20T12:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-20T18:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-20T13:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-20T11:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-20T11:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-20T17:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-20T11:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-20T18:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-20T16:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-20T12:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-20T10:15:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-20T14:45:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-20T12:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-20T08:00:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-20T17:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-20T10:45:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-20T17:45:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-20T13:15:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-20T10:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-21T09:30:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-21T17:45:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-21T15:15:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-21T09:30:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-21T16:15:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-21T09:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-21T12:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-21T14:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-21T09:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-21T18:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-21T14:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-21T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-21T17:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-21T10:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-21T15:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-21T17:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-21T18:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-21T16:45:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-21T08:45:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-21T10:00:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-21T12:45:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-21T12:15:00",
       "area": "Tanques",
       "funcao": "Caldeireiro",
       "quantidade": 17
     },
     {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-21T12:30:00",
       "area": "Tanques",
       "funcao": "Mecânico",
-      "quantidade": 7
+      "quantidade": 20
     },
     {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-21T14:15:00",
       "area": "Tanques",
       "funcao": "Eletricista",
       "quantidade": 4
     },
     {
-      "data": "2025-08-29",
+      "dataHora": "2025-08-21T14:45:00",
       "area": "Tanques",
-      "funcao": "Operador",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Oficina Central",
-      "funcao": "Pintor",
-      "quantidade": 12
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Oficina Central",
-      "funcao": "Caldeireiro",
-      "quantidade": 8
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Oficina Central",
-      "funcao": "Mecânico",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Oficina Central",
-      "funcao": "Eletricista",
-      "quantidade": 3
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Oficina Central",
       "funcao": "Operador",
       "quantidade": 12
     },
     {
-      "data": "2025-08-30",
-      "area": "Galpão XYZ",
+      "dataHora": "2025-08-22T14:30:00",
+      "area": "Oficina Central",
       "funcao": "Pintor",
-      "quantidade": 7
+      "quantidade": 9
     },
     {
-      "data": "2025-08-30",
-      "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Galpão XYZ",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Galpão XYZ",
-      "funcao": "Eletricista",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 19
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-22T15:00:00",
+      "area": "Oficina Central",
       "funcao": "Caldeireiro",
       "quantidade": 8
     },
     {
-      "data": "2025-08-30",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-22T08:30:00",
+      "area": "Oficina Central",
       "funcao": "Mecânico",
-      "quantidade": 6
+      "quantidade": 15
     },
     {
-      "data": "2025-08-30",
-      "area": "Gaveteiro de Andaimes",
+      "dataHora": "2025-08-22T10:30:00",
+      "area": "Oficina Central",
       "funcao": "Eletricista",
-      "quantidade": 4
-    },
-    {
-      "data": "2025-08-30",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Operador",
       "quantidade": 19
     },
     {
-      "data": "2025-08-30",
-      "area": "Bomba 178",
+      "dataHora": "2025-08-22T12:15:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-22T08:30:00",
+      "area": "Galpão XYZ",
       "funcao": "Pintor",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-22T08:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-22T18:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-22T11:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-22T09:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-22T11:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-22T08:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-22T08:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-22T18:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
       "quantidade": 16
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T15:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-22T12:45:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-22T15:45:00",
       "area": "Bomba 178",
       "funcao": "Caldeireiro",
-      "quantidade": 4
+      "quantidade": 19
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T15:30:00",
       "area": "Bomba 178",
       "funcao": "Mecânico",
-      "quantidade": 4
+      "quantidade": 14
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T14:45:00",
       "area": "Bomba 178",
       "funcao": "Eletricista",
-      "quantidade": 2
+      "quantidade": 6
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T16:45:00",
       "area": "Bomba 178",
       "funcao": "Operador",
       "quantidade": 5
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T09:00:00",
       "area": "Tanques",
       "funcao": "Pintor",
-      "quantidade": 8
+      "quantidade": 1
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T14:00:00",
       "area": "Tanques",
       "funcao": "Caldeireiro",
-      "quantidade": 16
+      "quantidade": 17
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T09:30:00",
       "area": "Tanques",
       "funcao": "Mecânico",
       "quantidade": 13
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T16:45:00",
       "area": "Tanques",
       "funcao": "Eletricista",
       "quantidade": 3
     },
     {
-      "data": "2025-08-30",
+      "dataHora": "2025-08-22T15:00:00",
       "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-23T08:15:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-23T18:00:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-23T18:45:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-23T12:15:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-23T08:15:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-23T16:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-23T15:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-23T10:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-23T18:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-23T09:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-23T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-23T09:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-23T15:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-23T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-23T10:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-23T16:15:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-23T18:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-23T16:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-23T13:15:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-23T17:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-23T13:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-23T09:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-23T08:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-23T14:00:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-23T13:30:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-24T16:45:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-24T12:00:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-24T16:30:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-24T10:15:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-24T16:30:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-24T08:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-24T11:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-24T16:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-24T17:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-24T13:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-24T13:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-24T14:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-24T13:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-24T12:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-24T10:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-24T13:30:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-24T09:15:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-24T08:30:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-24T09:30:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-24T17:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-24T08:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-24T11:30:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-24T18:30:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-24T08:30:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-24T18:00:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-25T16:00:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-25T14:45:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-25T10:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-25T10:15:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-25T09:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-25T13:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-25T10:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-25T17:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-25T15:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-25T08:45:00",
+      "area": "Galpão XYZ",
       "funcao": "Operador",
       "quantidade": 1
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-25T15:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-25T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-25T09:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-25T15:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-25T08:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-25T08:45:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-25T10:00:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-25T11:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-25T08:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-25T11:30:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-25T08:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-25T14:30:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-25T18:00:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-25T12:30:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-25T09:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-26T11:30:00",
       "area": "Oficina Central",
       "funcao": "Pintor",
       "quantidade": 15
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-26T12:45:00",
       "area": "Oficina Central",
       "funcao": "Caldeireiro",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-26T14:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-26T09:15:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-26T17:30:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-26T14:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-26T09:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-26T12:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-26T15:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-26T17:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-26T15:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-26T10:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-26T12:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-26T16:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-26T16:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-26T13:30:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-26T15:30:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-26T09:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-26T10:30:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-26T14:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-26T12:15:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-26T09:30:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-26T13:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-26T14:15:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-26T14:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-27T17:00:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-27T15:45:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-27T11:30:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-27T15:00:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-27T13:45:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-27T11:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-27T09:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-27T09:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-27T12:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-27T10:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-27T12:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-27T12:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-27T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-27T08:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
       "quantidade": 5
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-27T14:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-27T10:00:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-27T15:15:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-27T17:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-27T09:15:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-27T15:00:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-27T15:00:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-27T11:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-27T18:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-27T16:00:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-27T11:45:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-28T16:30:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-28T10:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-28T10:00:00",
       "area": "Oficina Central",
       "funcao": "Mecânico",
       "quantidade": 17
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-28T12:30:00",
       "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-28T15:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-28T15:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 11
+    },
+    {
+      "dataHora": "2025-08-28T13:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-28T17:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-28T13:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-28T08:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-28T17:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 15
+    },
+    {
+      "dataHora": "2025-08-28T13:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-28T08:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-28T14:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-28T16:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-28T12:30:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-28T15:30:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-28T09:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-28T08:00:00",
+      "area": "Bomba 178",
       "funcao": "Eletricista",
       "quantidade": 5
     },
     {
-      "data": "2025-08-31",
-      "area": "Oficina Central",
+      "dataHora": "2025-08-28T09:15:00",
+      "area": "Bomba 178",
       "funcao": "Operador",
-      "quantidade": 20
+      "quantidade": 15
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-28T11:15:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-28T08:45:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-28T08:00:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-28T18:45:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-28T14:00:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-29T17:30:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-29T16:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-29T13:15:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-29T09:45:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-29T15:30:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-29T13:30:00",
       "area": "Galpão XYZ",
       "funcao": "Pintor",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-29T17:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 4
+    },
+    {
+      "dataHora": "2025-08-29T12:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
       "quantidade": 12
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-29T18:45:00",
       "area": "Galpão XYZ",
-      "funcao": "Caldeireiro",
-      "quantidade": 11
+      "funcao": "Eletricista",
+      "quantidade": 7
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-29T17:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-29T12:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-29T12:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-29T16:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-29T11:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-29T14:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-29T14:45:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-29T08:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-29T17:30:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-29T10:00:00",
+      "area": "Bomba 178",
+      "funcao": "Eletricista",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-29T09:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-29T18:30:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-29T15:00:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-29T08:00:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 9
+    },
+    {
+      "dataHora": "2025-08-29T17:00:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-29T14:30:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-30T17:00:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-30T09:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-30T10:30:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-30T12:00:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-30T18:15:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 12
+    },
+    {
+      "dataHora": "2025-08-30T16:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-30T16:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-30T14:30:00",
       "area": "Galpão XYZ",
       "funcao": "Mecânico",
       "quantidade": 19
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T15:15:00",
       "area": "Galpão XYZ",
       "funcao": "Eletricista",
       "quantidade": 8
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T10:00:00",
       "area": "Galpão XYZ",
-      "funcao": "Operador",
-      "quantidade": 7
-    },
-    {
-      "data": "2025-08-31",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Pintor",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-31",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Caldeireiro",
-      "quantidade": 6
-    },
-    {
-      "data": "2025-08-31",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Mecânico",
-      "quantidade": 10
-    },
-    {
-      "data": "2025-08-31",
-      "area": "Gaveteiro de Andaimes",
-      "funcao": "Eletricista",
-      "quantidade": 5
-    },
-    {
-      "data": "2025-08-31",
-      "area": "Gaveteiro de Andaimes",
       "funcao": "Operador",
       "quantidade": 11
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T16:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-30T10:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-30T09:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 17
+    },
+    {
+      "dataHora": "2025-08-30T12:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-30T13:15:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 13
+    },
+    {
+      "dataHora": "2025-08-30T12:15:00",
       "area": "Bomba 178",
       "funcao": "Pintor",
-      "quantidade": 10
+      "quantidade": 2
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T08:15:00",
       "area": "Bomba 178",
       "funcao": "Caldeireiro",
-      "quantidade": 6
+      "quantidade": 8
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T12:45:00",
       "area": "Bomba 178",
       "funcao": "Mecânico",
-      "quantidade": 6
+      "quantidade": 20
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T10:30:00",
       "area": "Bomba 178",
       "funcao": "Eletricista",
       "quantidade": 19
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T11:30:00",
       "area": "Bomba 178",
       "funcao": "Operador",
       "quantidade": 10
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T10:15:00",
       "area": "Tanques",
       "funcao": "Pintor",
-      "quantidade": 1
+      "quantidade": 16
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T17:30:00",
       "area": "Tanques",
       "funcao": "Caldeireiro",
-      "quantidade": 12
+      "quantidade": 3
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T12:45:00",
       "area": "Tanques",
       "funcao": "Mecânico",
       "quantidade": 16
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-30T17:45:00",
       "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 16
+    },
+    {
+      "dataHora": "2025-08-30T17:15:00",
+      "area": "Tanques",
+      "funcao": "Operador",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-31T17:45:00",
+      "area": "Oficina Central",
+      "funcao": "Pintor",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-31T11:15:00",
+      "area": "Oficina Central",
+      "funcao": "Caldeireiro",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-31T10:00:00",
+      "area": "Oficina Central",
+      "funcao": "Mecânico",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-31T18:45:00",
+      "area": "Oficina Central",
+      "funcao": "Eletricista",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-31T09:00:00",
+      "area": "Oficina Central",
+      "funcao": "Operador",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-31T15:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Pintor",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-31T18:30:00",
+      "area": "Galpão XYZ",
+      "funcao": "Caldeireiro",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-31T11:15:00",
+      "area": "Galpão XYZ",
+      "funcao": "Mecânico",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-31T15:00:00",
+      "area": "Galpão XYZ",
+      "funcao": "Eletricista",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-31T10:45:00",
+      "area": "Galpão XYZ",
+      "funcao": "Operador",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-31T18:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-31T14:45:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Caldeireiro",
+      "quantidade": 3
+    },
+    {
+      "dataHora": "2025-08-31T10:00:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Mecânico",
+      "quantidade": 1
+    },
+    {
+      "dataHora": "2025-08-31T14:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Eletricista",
+      "quantidade": 7
+    },
+    {
+      "dataHora": "2025-08-31T15:30:00",
+      "area": "Gaveteiro de Andaimes",
+      "funcao": "Operador",
+      "quantidade": 14
+    },
+    {
+      "dataHora": "2025-08-31T16:30:00",
+      "area": "Bomba 178",
+      "funcao": "Pintor",
+      "quantidade": 2
+    },
+    {
+      "dataHora": "2025-08-31T11:45:00",
+      "area": "Bomba 178",
+      "funcao": "Caldeireiro",
+      "quantidade": 19
+    },
+    {
+      "dataHora": "2025-08-31T11:00:00",
+      "area": "Bomba 178",
+      "funcao": "Mecânico",
+      "quantidade": 5
+    },
+    {
+      "dataHora": "2025-08-31T17:45:00",
+      "area": "Bomba 178",
       "funcao": "Eletricista",
       "quantidade": 17
     },
     {
-      "data": "2025-08-31",
+      "dataHora": "2025-08-31T18:45:00",
+      "area": "Bomba 178",
+      "funcao": "Operador",
+      "quantidade": 10
+    },
+    {
+      "dataHora": "2025-08-31T14:15:00",
+      "area": "Tanques",
+      "funcao": "Pintor",
+      "quantidade": 20
+    },
+    {
+      "dataHora": "2025-08-31T18:15:00",
+      "area": "Tanques",
+      "funcao": "Caldeireiro",
+      "quantidade": 18
+    },
+    {
+      "dataHora": "2025-08-31T16:15:00",
+      "area": "Tanques",
+      "funcao": "Mecânico",
+      "quantidade": 8
+    },
+    {
+      "dataHora": "2025-08-31T14:15:00",
+      "area": "Tanques",
+      "funcao": "Eletricista",
+      "quantidade": 6
+    },
+    {
+      "dataHora": "2025-08-31T11:30:00",
       "area": "Tanques",
       "funcao": "Operador",
       "quantidade": 1

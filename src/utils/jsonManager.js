@@ -22,12 +22,20 @@ const getStartOfWeek = (dateString) => {
 
 export const groupDataByTime = (data) => {
   if (!data || !Array.isArray(data)) {
-    return { byDay : {}, byWeek: {}};
+    return { byHour : {}, byDay : {}, byWeek: {}};
   }
+
+  // Agrupar por hora:
+  const byHour = data.reduce((acc, item) => {
+    const hour = new Date(item.dataHora).getHours();
+    if (!acc[hour]) acc[hour] = [];
+    acc[hour].push(item);
+    return acc;
+  }, {});
 
   // Agrupar por dia:
   const byDay = data.reduce((acc, item) => {
-    const date = item.data;
+    const date = item.dataHora.split('T')[0];
     if (!acc[date]) acc[date] = []; // Se a data não existe, inicializa com um array vazio
     else {
       acc[date].push(item); // Adiciona o item ao array existente
@@ -37,11 +45,11 @@ export const groupDataByTime = (data) => {
 
   // Agrupar por semana:
   const byWeek = data.reduce((acc, item) => {
-    const week = getStartOfWeek(item.data);
+    const week = getStartOfWeek(item.dataHora.split('T')[0]);
     if (!acc[week]) acc[week] = [];
     acc[week].push(item);
     return acc;
   }, {});
 
-  return { byDay, byWeek };
+  return { byHour, byDay, byWeek };
 };
