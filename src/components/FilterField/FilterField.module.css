@@ -59,20 +59,8 @@
 .icon {
   display: flex;
   align-items: center;
-  color: #414141;
+  color: #7c7c89;
   flex-shrink: 0;
-}
-
-.buttonText {
-    width: 100%;
-    text-align: center;
-    font-size: 13px;
-    color: #414141;
-    font-family: "Open Sans", sans-serif;
-    font-weight: 600;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 .iconContainer {
@@ -160,6 +148,19 @@
   transition: all 0.3s ease;
 }.optionRow:hover{
   background: #e9f2ff;
+}.checkboxWrapper {
+  pointer-events: none;
+  width: 100%;
+}
+
+.optionItem {
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  font-family: "Gabarito", sans-serif;
+  font-weight: 300;
+  color: #050B2E;
+  font-size: 15px;
 }
 
 .noResults {

@@ -8,10 +8,11 @@ import { MdClear } from "react-icons/md";
 function FilterField({
   label,
   name,
-  options = [],
+  options = [], // Segue a estrutura [{ value: "", label: "" }, ...]
   selectedValues = [],
   onChange,
   icon = null,
+  isMulti = true
 }) {
   const safeSelectedValues = Array.isArray(selectedValues) ? selectedValues : []; // Garante que selectedValues seja sempre um array
   const [isOpen, setIsOpen] = useState(false);
@@ -67,14 +68,28 @@ function FilterField({
 
   // Alterna seleção de um item
   const handleToggle = (value) => {
-    let newSelected;
-    if (safeSelectedValues.includes(value)) {
-      newSelected = safeSelectedValues.filter(v => v !== value);
+    if (isMulti) {
+      const newSelected = safeSelectedValues.includes(value) ? 
+      safeSelectedValues.filter(v => v !== value) // Remove se já está selecionado
+        : [...safeSelectedValues, value]; // Adiciona se não está selecionado
+      onChange(name, newSelected);
     } else {
-      newSelected = [...safeSelectedValues, value];
+      // Para seleção única, define o valor e fecha o dropdown
+      onChange(name, [value]);
+      setIsOpen(false);
+      setSearchTerm("");
     }
-    // Chama onChange passando o name e os novos valores
-    onChange(name, newSelected);
+  };
+
+  // Gera o texto do placeholder com base nas seleções
+  const getPlaceholderText = () => {
+    if (safeSelectedValues.length === 1) {
+      const selectedValue = safeSelectedValues[0]; // Pega o único valor selecionado
+      const selectedOption = options.find(opt => (opt.value || opt) === selectedValue); // Encontra a opção correspondente
+      return selectedOption ? (selectedOption.label || selectedOption) : selectedValue; // Retorna o label
+    }
+    if (safeSelectedValues.length > 0)  return `${label} (${safeSelectedValues.length})`;
+    return label;
   };
 
   return (
@@ -95,7 +110,7 @@ function FilterField({
                     ref={inputRef}
                     type="text"
                     className={styles.searchInput}
-                    placeholder={isOpen ? "" : `${label}${safeSelectedValues.length > 0 ? ` (${safeSelectedValues.length})` : ''}`}
+                    placeholder={isOpen ? "" : getPlaceholderText()}
                     value={isOpen ? searchTerm : ''}
                     onChange={e => setSearchTerm(e.target.value)}
                     readOnly={!isOpen}
@@ -115,13 +130,28 @@ function FilterField({
           <div className={styles.dropdownContent}>
             {filteredOptions.length > 0 ? (
                 filteredOptions.map(opt => (
-                <div key={opt.value || opt} className={styles.optionRow}>
-                    <Checkbox
-                    isChecked={safeSelectedValues.includes(opt.value || opt)}
-                    onChange={() => handleToggle(opt.value || opt)}
-                    text={opt.label || opt}
-                    />
+
+                <div key={opt.value || opt} className={styles.optionRow} onClick={() => handleToggle(opt.value || opt)}>
+
+                    {isMulti ? (
+                      <div className={styles.checkboxWrapper}>
+                        <Checkbox
+                          isChecked={safeSelectedValues.includes(opt.value || opt)}
+                          text={opt.label || opt}
+                          // onChange={() => handleToggle(opt.value || opt)}
+                        />
+                      </div>
+                    ) : (
+                      <div
+                        className={styles.optionItem}
+                        onClick={() => handleToggle(opt.value || opt)}
+                      >
+                        {opt.label || opt}
+                      </div>
+                    )}
+
                 </div>
+                
                 ))
             ) : (
                 <div className={styles.noResults}>Nenhuma opção encontrada</div>

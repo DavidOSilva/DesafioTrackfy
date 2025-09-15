@@ -36,8 +36,8 @@ function Dashboard() {
   // Hooks para os filtros.
   const [selectedFilters, setSelectedFilters] = useState({
     role: [],
-    areaType: [],
     areaName: [],
+    areaType: [],
     time: [],
   });
   const handleFilterChange = (filterName, newValues) => { // Atualiza filtros
@@ -47,6 +47,8 @@ function Dashboard() {
       };
       setSelectedFilters(updatedFilters);
   }
+
+  console.log("Selected Filters:", selectedFilters);
 
   return (
     <div className={styles.body}>
@@ -87,6 +89,16 @@ function Dashboard() {
               selectedValues={selectedFilters.areaType || []}
               onChange={handleFilterChange}
               icon={"fi fi-sr-tags"}
+          />
+
+          <FilterField
+              label="Tempo"
+              name="time"
+              options={[ { value: 'Hour', label: 'Hora' }, { value: 'Day', label: 'Dia' }, { value: 'Week', label: 'Semana' }]}
+              selectedValues={selectedFilters.time || []}
+              onChange={handleFilterChange}
+              icon={"fi fi-sr-calendar-clock"}
+              isMulti={false} // Seleção única
           />
 
         </div>

@@ -1,6 +1,6 @@
 import styles from "./Checkbox.module.css"
 
-function Checkbox({isChecked, onChange, text=""}) {
+function Checkbox({isChecked, onChange=() => {}, text=""}) {
 
     return (
         <label className={`${styles.label} ${styles.filterLabelContainer}`}>
