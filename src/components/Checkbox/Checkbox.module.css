@@ -1,0 +1,72 @@
+
+.label {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.filterLabelContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.labelText{
+    font-family: "Gabarito", sans-serif;
+    font-weight: 300;
+    color: #050B2E;
+    font-size: 15px;
+    margin-right: 5px;
+    flex: 1;
+    min-width: 0;
+}
+
+/* .filterLabel {
+    font-size: 13px;
+    color: #414141;
+} */
+  
+/* Oculta o input */
+input[type="checkbox"] {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+/* Estilo da caixinha visual */
+.checkbox {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    min-width: 20px;
+    min-height: 20px;
+    background: transparent;
+    border-radius: 6px;
+    border: 2px #DBDBDB solid;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+}
+
+/* Quando marcada */
+.active {
+    border-color: #2F4CDD;
+    background: #2F4CDD;
+}
+
+/* Animação do checkmark (SVG) */
+.checkbox path {
+    stroke-dasharray: 18;
+    stroke-dashoffset: 18;
+    transition: stroke-dashoffset 0.3s ease, stroke 0.3s ease;
+}
+
+.active path {
+    stroke-dashoffset: 0;
+}

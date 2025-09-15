@@ -1,0 +1,86 @@
+.container {
+    display: flex;
+    width: 100%;
+    max-width: 300px;
+    height: 100vh;
+    background-color: #F8F8FA;
+    padding: 30px 20px;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.logoContainer {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 8px;
+    padding: 20px 0px;
+    border-bottom: solid 2px #E4E8FB;
+}.logoImage{
+    height: 35px;
+    width: auto;
+}.logoText{
+    font-size: 30px;
+    font-weight: 600;
+    color: #2F4CDD;
+    font-family: "Branding Bold";
+    user-select: none;   /* impede seleção de texto */
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none;
+}
+
+
+.sectionTitle{
+    display: flex;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 400;
+    color: #AAAEAF;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 20px;
+    user-select: none;   /* impede seleção de texto */
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none;
+}
+
+
+.optionContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 15px;
+    color: #c8cbd9;
+    cursor: pointer;
+    border-radius: 7px;
+    transition: all 0.3s ease;
+}.icon {
+    display: flex;
+    font-size: 30px;
+}.optionText {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    white-space: nowrap;       /* impede quebra de linha */
+    overflow: hidden;          /* esconde o excesso de conteúdo */
+    text-overflow: ellipsis;   /* adiciona "..." no final */
+}.iconSelected {
+    color: #526ffe;
+}.textSelected {
+    color: #0823AD;
+}.optionSelected {
+    background-color: #ebeefe;
+}
+
+
+
+a {
+    text-decoration: none;
+    width: 100%;
+}

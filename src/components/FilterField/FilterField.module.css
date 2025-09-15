@@ -1,0 +1,205 @@
+.container {
+    position: relative;
+    width: 100%;
+    min-width: 120px;
+    flex: 1;
+    flex-shrink: 1;
+}
+
+.filterButtonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    width: 100%;
+}
+
+.filterButton {
+    display: flex;
+    align-items: center;
+    background: #F3F3F3;
+    border: none;
+    border-radius: 7px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #858585;
+    gap: 8px;
+    transition: all 0.3s ease;
+    width: 100%;
+    overflow: hidden;
+}.filterButtonShorter {
+    padding-right: 9px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}.filterButton:hover .iconButton {
+     color: #000547;  
+}
+
+.filterButtonClear {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F3F3F3;
+    border: none;
+    border-radius: 8px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    cursor: pointer;
+    padding: 8px 12px;
+    color: #858585;
+    transition: all 0.3s ease;
+    font-size: 16px;
+}.filterButtonClear:hover .iconButton {
+     color: #000547;  
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  color: #414141;
+  flex-shrink: 0;
+}
+
+.buttonText {
+    width: 100%;
+    text-align: center;
+    font-size: 13px;
+    color: #414141;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.iconContainer {
+    background-color: #ffffffca;
+    border: 2px solid #f0efef;
+    border-radius: 8px;
+    padding: 4px;
+    transition: all 0.3s ease;
+}
+.iconContainer:active {
+    transform: scale(0.95);
+}
+.iconButton {
+    display: flex;
+    align-items: center;
+    color: #414141;
+    transition: all 0.3s ease;
+    font-size: 15px;
+}
+.iconButtonRotated {
+    transform: rotate(180deg);
+}
+.iconContainer:active .iconButton {
+    transform: scale(0.95);
+}
+.iconContainer:active .iconButtonRotated {
+    transform: rotate(180deg) scale(0.95);
+}
+
+.dropdown {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  z-index: 10;
+  height: auto;
+  max-height: 320px;
+  overflow: hidden;
+}
+
+.dropdownContent {
+  max-height: 320px;
+  overflow-y: auto;
+}.dropdownContent::-webkit-scrollbar {
+    background-color: rgba(255, 255, 255, 0.045);
+    width: 4px;               /* width of the entire scrollbar */
+}.dropdownContent::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0);        /* color of the tracking area */
+}.dropdownContent::-webkit-scrollbar-thumb {
+    background-color: #f3f3f3;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+}
+
+.searchInput {
+    flex-grow: 1;
+    min-width: 0px;
+    color: #050B2E;
+    font-size: 15px;
+    font-family: "Gabarito", sans-serif;
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    background: transparent;
+}.searchInput::placeholder {
+    text-align: center;
+    color: #7c7c89;
+    font-family: "Gabarito", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.optionRow {
+  display: flex;
+  align-items: center;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}.optionRow:hover{
+  background: #e9f2ff;
+}
+
+.noResults {
+  padding: 12px;
+  text-align: center;
+  color: #858585;
+  font-size: 13px;
+}
+
+/* Responsividade para diferentes larguras */
+@media (max-width: 1024px) {
+  .container {
+    min-width: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    min-width: 275px;
+  }
+  
+  .filterButton {
+    padding: 6px 12px;
+    font-size: 14px;
+  }
+  
+  .filterButtonClear {
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+  
+  .buttonText {
+    font-size: 12px;
+  }
+  
+  .searchInput {
+    font-size: 12px;
+  }
+  
+  .searchInput::placeholder {
+    font-size: 12px;
+  }
+}
