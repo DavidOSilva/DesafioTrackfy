@@ -1,7 +1,7 @@
 import SideMenu from '../../components/SideMenu/SideMenu'
 import FilterField from '../../components/FilterField/FilterField'
 import fetchLocalJson from '../../api/fetchLocalJson'
-import { getAreaInfo } from '../../utils/jsonManager'
+import { getAreaInfo, groupDataByTime } from '../../utils/jsonManager'
 import styles from './Dashboard.module.css'
 
 import { useState, useEffect, useMemo } from 'react'
