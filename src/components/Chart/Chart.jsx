@@ -18,8 +18,8 @@ function Chart({ data = [], time="Day", onTimeChange = () => {} }) {
             // Formatar data
             if (time !== "Hour" && /^\d{4}-\d{2}-\d{2}$/.test(key)) {
                 const [year, month, day] = key.split('-');
-                formattedGroup = `${day}/${month}/${year.slice(-2)}`;
-            } else formattedGroup = `${key}:00`; // Mantém o formato original para Week ou outros
+                formattedGroup = `${day}/${month}`; // /${year.slice(-2)}
+            } else formattedGroup = `${key}h`; // Mantém o formato original para Week ou outros
             
             return {
                 group: formattedGroup,
