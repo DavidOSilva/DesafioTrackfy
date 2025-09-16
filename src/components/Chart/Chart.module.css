@@ -17,13 +17,20 @@
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 4px;
+    padding: 0px 8px;
 }.title{
     font-size: 30px;
     font-weight: 500;
     color: #2F4CDD;
     font-family: "Gabarito";
     padding-right: 15px;
+}.selectors{
+    display: flex;
+    align-items: center;
+    gap: 20px;
 }
+
+
 
 .chartTypeSelector{
     display: flex;

@@ -1,0 +1,86 @@
+.container {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-between;
+    /* width: 110px; */
+    background-color: #F3F3F3;
+    border-radius: 15px;
+    z-index: 1;
+    height: 35px;
+    align-items: center;
+}
+  
+.option {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 28px;
+    width: 100%;
+    min-width: 55px;
+    border-radius: 15px;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    color: #adadad;
+    font-family: "Lexend", sans-serif;
+    font-weight: 400;
+    transition: color 0.3s ease;
+}
+.option:hover {
+    color: #3B9AF1;
+}
+
+.optionActive {
+    color: #3B9AF1;
+    font-weight: 450;
+}
+
+.optionIcon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 6px;
+    font-size: 14px;
+}  
+
+.slider {
+    position: absolute;
+    background-color: #FDFDFD;
+    top: 4px;
+    left: 4px;
+    bottom: 4px;
+    border-radius: 15px;
+    transition: transform 0.2s ease;
+    z-index: -1;
+}
+
+.legend {
+    position: absolute;
+    left: -8px; /* gruda no container */
+    top: 50%;
+    transform: translate(-100%, -50%); /* move para a esquerda do container e centraliza verticalmente */
+    white-space: nowrap; /* impede quebra de linha */
+    background: #6b6b6bed;
+    box-shadow: 4px 3px 3px #b3b3b32d;
+    color: #ffffff;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+
+    padding: 8px 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.4s;
+    z-index: 10;
+}
+
+.container:hover .legend {
+    opacity: 1;
+    transition-delay: 0.5s;
+}

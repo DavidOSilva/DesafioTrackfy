@@ -110,20 +110,9 @@ function Dashboard() {
               icon={"fi fi-ss-building"}
           />
 
-          <FilterField
-              label="Tempo"
-              name="time"
-              options={[ { value: 'Hour', label: 'Hora' }, { value: 'Day', label: 'Dia' }, { value: 'Week', label: 'Semana' }]}
-              selectedValues={selectedFilters.time || []}
-              onChange={handleFilterChange}
-              icon={"fi fi-sr-calendar-clock"}
-              initialValues={["Day"]} // Valor padrão para o filtro de tempo
-              isMulti={false} // Seleção única
-          />
-
         </div>
 
-        <Chart data={filteredData} time={selectedFilters.time[0]}/>
+        <Chart data={filteredData} time={selectedFilters.time[0]} onTimeChange={handleFilterChange}/>
 
       </div>
 
