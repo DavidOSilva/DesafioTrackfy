@@ -1,8 +1,9 @@
 import SideMenu from '../../components/SideMenu/SideMenu'
 import FilterField from '../../components/FilterField/FilterField'
-import fetchLocalJson from '../../api/fetchLocalJson'
-import { getAreaInfo, groupDataByTime } from '../../utils/jsonManager'
+import Chart from '../../components/Chart/Chart'
 import styles from './Dashboard.module.css'
+import fetchLocalJson from '../../api/fetchLocalJson'
+import { getAreaInfo, groupDataByTime, getAreaNamesByType } from '../../utils/jsonManager'
 
 import { useState, useEffect, useMemo } from 'react'
 
@@ -21,34 +22,52 @@ function Dashboard() {
     ]).finally(() => setIsLoading(false)); // Seta isLoading para false quando ambos forem carregados
   }, []);
   const { areaNames, areaTypes } = useMemo(() => getAreaInfo(dataInfo.areas), [dataInfo.areas]); // Extrai nomes e tipos únicos de áreas
-  const timeGroupedData = useMemo(() => groupDataByTime(data), [data]); // Agrupa dados por dia e semana
-  
-  // Exemplo de como acessar os dados agrupados:
-  useEffect(() => {
-    if (Object.keys(timeGroupedData.byDay).length > 0) {
-      console.log("Dados agrupados por hora:", timeGroupedData.byHour);
-      console.log("Dados agrupados por dia:", timeGroupedData.byDay);
-      console.log("Dados agrupados por semana:", timeGroupedData.byWeek);
-    }
-  }, [timeGroupedData]);
-
+  // const timeGroupedData = useMemo(() => groupDataByTime(data), [data]); // Agrupa dados por dia e semana
 
   // Hooks para os filtros.
   const [selectedFilters, setSelectedFilters] = useState({
     role: [],
     areaName: [],
     areaType: [],
-    time: [],
+    time: ["Day"] // Valor padrão para o filtro de tempo,
   });
   const handleFilterChange = (filterName, newValues) => { // Atualiza filtros
       const updatedFilters = {
           ...selectedFilters,
           [filterName]: newValues
       };
+      
+      // Se o filtro de tipo de área for alterado, limpa as áreas incompatíveis.
+      if (filterName === 'areaType' && newValues.length > 0) {
+          const areaDetails = dataInfo.areas || [];
+          const allowedAreaNames = getAreaNamesByType(areaDetails, newValues);
+          updatedFilters.areaName = updatedFilters.areaName.filter(name => allowedAreaNames.includes(name)); // Remove áreas incompatíveis
+      }
+
       setSelectedFilters(updatedFilters);
   }
 
-  console.log("Selected Filters:", selectedFilters);
+  // Omite áreas incompatíveis com o tipo de área selecionado
+  const areaNamesByTypeFilter = useMemo(() => {
+    if (selectedFilters.areaType.length === 0) return areaNames; // Se nenhum tipo for selecionado, mostra todos os nomes
+    else return getAreaNamesByType(dataInfo.areas, selectedFilters.areaType); // Filtra nomes de áreas com base nos tipos selecionados
+  }, [selectedFilters.areaType, dataInfo.areas]);
+
+  // Aplica os filtros aos dados
+  const filteredData = useMemo(() => {
+    const { role, areaName, areaType, time } = selectedFilters;
+
+    // Aplica os filtros
+    const ungroupedData = data.filter(item => {
+        const roleMatch = role.length == 0 || role.includes(item.funcao); // Se não houver filtro, ou se o item corresponder ao filtro
+        const areaTypeMatch = areaNamesByTypeFilter.includes(item.area); // Verifica se a área do item está na lista filtrada de nomes de área
+        const areaNameMatch = areaName.length == 0 || areaName.includes(item.area);
+        return roleMatch && areaNameMatch && areaTypeMatch;
+    });
+
+    // Agrupa os dados filtrados usando o tempo
+    return groupDataByTime(ungroupedData)[`by${time[0]}`];
+  }, [data, selectedFilters, areaNamesByTypeFilter]);
 
   return (
     <div className={styles.body}>
@@ -74,15 +93,6 @@ function Dashboard() {
           />
 
           <FilterField
-              label="Área"
-              name="areaName"
-              options={areaNames.map(item => ({ value: item, label: item })) || []}
-              selectedValues={selectedFilters.areaName || []}
-              onChange={handleFilterChange}
-              icon={"fi fi-ss-building"}
-          />
-
-          <FilterField
               label="Tipo da área"
               name="areaType"
               options={areaTypes.map(item => ({ value: item, label: item })) || []}
@@ -92,17 +102,28 @@ function Dashboard() {
           />
 
           <FilterField
+              label="Área"
+              name="areaName"
+              options={areaNamesByTypeFilter.map(item => ({ value: item, label: item })) || []}
+              selectedValues={selectedFilters.areaName || []}
+              onChange={handleFilterChange}
+              icon={"fi fi-ss-building"}
+          />
+
+          <FilterField
               label="Tempo"
               name="time"
               options={[ { value: 'Hour', label: 'Hora' }, { value: 'Day', label: 'Dia' }, { value: 'Week', label: 'Semana' }]}
               selectedValues={selectedFilters.time || []}
               onChange={handleFilterChange}
               icon={"fi fi-sr-calendar-clock"}
+              initialValues={["Day"]} // Valor padrão para o filtro de tempo
               isMulti={false} // Seleção única
           />
 
         </div>
 
+        <Chart data={filteredData} time={selectedFilters.time[0]}/>
 
       </div>
 

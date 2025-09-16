@@ -12,6 +12,7 @@ function FilterField({
   selectedValues = [],
   onChange,
   icon = null,
+  initialValues = [],
   isMulti = true
 }) {
   const safeSelectedValues = Array.isArray(selectedValues) ? selectedValues : []; // Garante que selectedValues seja sempre um array
@@ -62,7 +63,7 @@ function FilterField({
 
   // Limpa todas as seleções deste filtro
   const handleClear = () => {
-    onChange(name, []);
+    onChange(name, initialValues);
     setShowClearButton(false);
   };
 
