@@ -112,7 +112,7 @@ function Dashboard() {
 
         </div>
 
-        <Chart data={filteredData} time={selectedFilters.time[0]} onTimeChange={handleFilterChange}/>
+        <Chart data={filteredData} time={selectedFilters.time[0]} onTimeChange={handleFilterChange} areaNames={areaNamesByTypeFilter}/>
 
       </div>
 

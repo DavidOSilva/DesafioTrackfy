@@ -1,13 +1,12 @@
 import ToggleSelector from '../ToggleSelector/ToggleSelector';
+import { getAreaInfo } from '../../utils/jsonManager';
 
 import styles from './Chart.module.css';
 import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 import { useState, useMemo } from 'react'
 
-function Chart({ data = [], time="Day", onTimeChange = () => {} }) {
-
-    console.log("Chart received data:", data);
+function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] }) {
 
     // Converte os dados para o formato esperado pelo Recharts
     const chartData = useMemo(() => {
@@ -21,12 +20,34 @@ function Chart({ data = [], time="Day", onTimeChange = () => {} }) {
                 formattedGroup = `${day}/${month}`; // /${year.slice(-2)}
             } else formattedGroup = `${key}h`; // Mantém o formato original para Week ou outros
             
-            return {
-                group: formattedGroup,
-                total: data[key].reduce((acc, item) => acc + item.quantidade, 0),
-            };
+            // Criar objeto com total para cada área
+            const groupData = { group: formattedGroup };
+            let totalGeneral = 0;
+            
+            // Inicializar todas as áreas com 0
+            areaNames.forEach(area => {
+                groupData[area] = 0;
+            });
+            
+            // Somar quantidades por área
+            data[key].forEach(item => {
+                groupData[item.area] = (groupData[item.area] || 0) + item.quantidade;
+                totalGeneral += item.quantidade;
+            });
+            
+            groupData.total = totalGeneral;
+            
+            return groupData;
         });
     }, [data]);
+
+    // Gerar cores para cada área
+    const getAreaColor = (index) => {
+        const colors = [
+            "#5577FF", "#8D5DF4", "#7492FC", "#00E0B4", "#feda6cff"
+        ];
+        return colors[index % colors.length];
+    };
 
     // Estado para o tipo de gráfico
     const [chartType, setChartType] = useState('line'); // 'bar' ou 'line'
@@ -72,7 +93,16 @@ function Chart({ data = [], time="Day", onTimeChange = () => {} }) {
                     }}
                 >
                     {commonComponents}
-                    <Bar dataKey="total" stackId="a" fill="#5577ff" />
+                    {/* Renderizar uma barra para cada área */}
+                    {areaNames.map((area, index) => (
+                        <Bar 
+                            key={area}
+                            dataKey={area} 
+                            stackId="areas" 
+                            fill={getAreaColor(index)}
+                            name={area}
+                        />
+                    ))}
                 </BarChart>
             );
             break;
