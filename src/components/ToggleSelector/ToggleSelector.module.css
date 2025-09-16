@@ -5,9 +5,9 @@
     justify-content: space-between;
     /* width: 110px; */
     background-color: #F3F3F3;
-    border-radius: 15px;
+    border-radius: 7px;
     z-index: 1;
-    height: 35px;
+    height: 43px;
     align-items: center;
 }
   
@@ -29,11 +29,11 @@
     transition: color 0.3s ease;
 }
 .option:hover {
-    color: #3B9AF1;
+    color: #526FFE;
 }
 
 .optionActive {
-    color: #3B9AF1;
+    color: #526FFE;
     font-weight: 450;
 }
 
@@ -42,7 +42,7 @@
     align-items: center;
     justify-content: center;
     margin-right: 6px;
-    font-size: 14px;
+    font-size: 16px;
 }  
 
 .slider {
@@ -51,7 +51,7 @@
     top: 4px;
     left: 4px;
     bottom: 4px;
-    border-radius: 15px;
+    border-radius: 7px;
     transition: transform 0.2s ease;
     z-index: -1;
 }
@@ -65,7 +65,7 @@
     background: #6b6b6bed;
     box-shadow: 4px 3px 3px #b3b3b32d;
     color: #ffffff;
-    font-family: 'Lexend', sans-serif;
+    font-family: 'Gabarito', sans-serif;
     font-weight: 400;
     font-size: 13px;
     letter-spacing: 0.5px;

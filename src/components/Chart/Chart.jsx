@@ -35,7 +35,7 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
                 totalGeneral += item.quantidade;
             });
             
-            groupData.total = totalGeneral;
+            groupData.Total = totalGeneral;
             
             return groupData;
         });
@@ -44,7 +44,7 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
     // Gerar cores para cada área
     const getAreaColor = (index) => {
         const colors = [
-            "#5577FF", "#8D5DF4", "#7492FC", "#00E0B4", "#feda6cff"
+            "#3511d4ff", "#4763ffff", "#7492FC", "#00E0B4", "#feda6cff"
         ];
         return colors[index % colors.length];
     };
@@ -56,7 +56,7 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
     let content = null
     const commonComponents = (
         <>
-            <CartesianGrid strokeDasharray="3 3" />
+            <CartesianGrid strokeDasharray="3 3" vertical={false}/>
             <XAxis dataKey="group" />
             <YAxis allowDecimals={false} />
             <Tooltip />
@@ -77,7 +77,7 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
                     }}
                 >
                     {commonComponents}
-                    <Line type="monotone" dataKey="total" stroke="#5577ff" activeDot={{ r: 8 }} />
+                    <Line type="monotone" dataKey="Total" stroke="#5577ff" activeDot={{ r: 8 }} />
                 </LineChart>
             );
             break;
