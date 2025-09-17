@@ -102,29 +102,6 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
         return colors[index % colors.length];
     };
 
-    // Componente de tooltip personalizado para gráfico de barras
-    const CustomBarTooltip = ({ active, payload, label }) => {
-        if (active && payload && payload.length) {
-            const totalGeral = payload.reduce((sum, entry) => sum + entry.value, 0);
-            
-            return (
-                <div className={styles.customTooltip}>
-                    <p className={styles.tooltipLabel}>{`${label}`}</p>
-                    {payload.map((entry, index) => (
-                        <p key={index} style={{ color: entry.color, margin: '2px 0' }}>
-                            {`${entry.name}: ${entry.value} pessoas`}
-                        </p>
-                    ))}
-                    <hr style={{ margin: '8px 0', border: 'none', borderTop: '1px solid #ccc' }} />
-                    <p className={styles.tooltipTotal}>
-                        <strong>{`Total Geral: ${totalGeral} pessoas`}</strong>
-                    </p>
-                </div>
-            );
-        }
-        return null;
-    };
-
     // Renderiza o gráfico com base no tipo selecionado
     const renderChart = () => {
     let content = null
@@ -133,6 +110,7 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
                 <CartesianGrid strokeDasharray="3 3" vertical={false}/>
                 <XAxis dataKey="group" />
                 <YAxis allowDecimals={false} />
+                <Tooltip />
                 <Legend />
             </>
         );
@@ -150,7 +128,6 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
                         }}
                     >
                         {commonComponents}
-                        <Tooltip />
                         <Line type="monotone" dataKey="Total" stroke="#5577ff" activeDot={{ r: 8 }} />
                     </LineChart>
                 );
@@ -167,7 +144,6 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
                         }}
                     >
                         {commonComponents}
-                        <Tooltip content={<CustomBarTooltip />}/>
                         {/* Renderizar uma barra para cada área */}
                         {areaNames.map((area, index) => (
                             <Bar 
