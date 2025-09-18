@@ -61,9 +61,7 @@ export const groupDataByTime = (data) => {
   const byDay = data.reduce((acc, item) => {
     const date = item.dataHora.split('T')[0];
     if (!acc[date]) acc[date] = []; // Se a data não existe, inicializa com um array vazio
-    else {
-      acc[date].push(item); // Adiciona o item ao array existente
-    }
+    acc[date].push(item); // Adiciona o item ao array existente
     return acc;
   }, {});
 
