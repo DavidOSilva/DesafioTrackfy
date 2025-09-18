@@ -11,6 +11,19 @@ Uma aplicação web interativa desenvolvida para análise e visualização de da
 
 Este dashboard foi desenvolvido como parte de um desafio técnico, focado na criação de uma interface moderna e intuitiva para análise de dados demográficos. A aplicação permite visualizar distribuições populacionais através de gráficos interativos e mapas geográficos, oferecendo diferentes perspectivas de análise dos dados.
 
+## 🖼️ ️Algumas Screenshots. 
+Veja algumas imagens das telas principais do projeto:
+<p align="center">
+    <details>
+        <summary>Clique para mais detalhes</summary>
+        <img src="./screenshots/1.png" alt="Dashboard com gráfico de linha e agrupamento por hora" width="800"/>
+        <img src="/screenshots/2.png" alt="Dashboard com gráfico de barras e agrupamento por semana" width="800"/>
+        <img src="/screenshots/3.png" alt="Dashboard com gráfico de pizza e filtro aberto" width="800"/>
+        <img src="/screenshots/4.png" alt="Mapa interativo indicando a localização das áreas" width="800"/>
+    </details>
+  <img src="/screenshots/5.gif" alt="Navegando pela aplicação" width="800">
+</p>
+
 ## ✨ Principais Funcionalidades
 
 ### 📈 **Dashboard Interativo**
