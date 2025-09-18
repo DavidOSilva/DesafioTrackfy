@@ -103,6 +103,7 @@ Veja algumas imagens das principais telas do projeto:
 - **Exportação** de gráficos em diferentes formatos, útil para construção de apresentações e relatórios.
 - **Dashboard customizável** pelo usuário, talvez com mudança para tema escuro.
 - **API backend** para acessar os dados de maneira dinâmica, aproximando-se mais de um projeto real.
+- **Comparação de dados** para verificar qual das áreas ou em quais periodos teve mais pessoas, lado a lado.
 
 ## 🤝 **Contribuição**
 
