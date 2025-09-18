@@ -74,7 +74,7 @@ function Map() {
               <Circle
                   key={areaName}
                   center={coordinates}
-                  radius={20}
+                  radius={12}
                   pathOptions={{
                     color: areaColor,
                     fillColor: areaColor,
