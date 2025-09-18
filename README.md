@@ -93,6 +93,7 @@ Veja algumas imagens das principais telas do projeto:
 - **Preservação dos dados originais**: Mantive o arquivo de dados fornecido sem modificar sua estrutura original.
 - **Gráfico de barras empilháveis**: Utilizo áreas em vez de apenas totais para evitar redundância com o gráfico de linha.
 - **Relacionamento de filtros**: Implementação manual do relacionamento `areaTypes` → `areaNames`.
+- **Filtro de instante temporal**: Tive dúvidas sobre como exibir a distribuição temporal no gráfico de pizza e, por isso, usei um filtro para visualizar os dados em instantes específicos conforme o agrupamento (por exemplo, em horas, é possível analisar uma hora determinada). Depois notei que não era necessário, mas acabou ficando e se tornando um recurso adicional.
 - **Menu lateral** para navegação entre as páginas.
 - **Paleta de cores** consistente com a identidade visual da Trackfy, incluindo logo e fonte oficial.
 
