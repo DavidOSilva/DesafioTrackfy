@@ -1,4 +1,4 @@
-# 📊 Trackfy Dashboard - Desafio Técnico Frontend
+# 📊 Trackfy Dashboard - Desafio Técnico Frontend 2025
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -41,7 +41,7 @@ Este dashboard foi desenvolvido como parte de um desafio técnico, focado na cri
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/DavidOSilva/DesafioTrackfy.git
+   git clone https://github.com/DavidOSilva/DesafioTrackfy
    cd DesafioTrackfy
    ```
 
@@ -56,7 +56,7 @@ Este dashboard foi desenvolvido como parte de um desafio técnico, focado na cri
    ```
 
 4. **Acesse a aplicação**
-   - Abra seu navegador e acesse `http://localhost:5173`
+   - Abra seu navegador e acesse `http://localhost:1209`
 
 ### 📦 **Scripts Disponíveis**
 - `npm run dev` - Executa a aplicação em modo de desenvolvimento
