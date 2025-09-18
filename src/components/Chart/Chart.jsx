@@ -27,7 +27,6 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
           setSelectedFilters(updatedFilters);
     }
 
-
     // Converte os dados para o formato esperado pelo Recharts (Line e Bar)
     const chartData = useMemo(() => {
         if (!data) return [];
@@ -60,7 +59,6 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
         });
     }, [data]);
 
-
     // Filtrar dados por instantes de tempo selecionados, util para gráfico de pizza.
     const filteredData = useMemo(() => {
         const { instantsTime } = selectedFilters;
@@ -82,8 +80,8 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
         // Agregar quantidades por área de todos os instantes selecionados
         Object.keys(filteredData).forEach(timeKey => {
             filteredData[timeKey].forEach(item => {
-                if (!areasTotals[item.area])  areasTotals[item.area] = 0;
-                areasTotals[item.area] += item.quantidade;
+                if (!areasTotals[item.area])  areasTotals[item.area] = 0; // Inicializa o total da área
+                areasTotals[item.area] += item.quantidade; // Soma a quantidade
             });
         });
         
@@ -203,7 +201,7 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
             <header className={styles.header}>
                 <span className={styles.title}>Pessoas por período</span>
                 <div className={styles.selectors}>
-                    { chartType === 'pie' && (
+                    { chartType === 'pie' && ( // No gráfico de pizza exibe o filtro de instantes de tempo (recurso adicional)
                         <div className={styles.instantsTimeFilter}>
                             <FilterField
                                 label="Instante de tempo"

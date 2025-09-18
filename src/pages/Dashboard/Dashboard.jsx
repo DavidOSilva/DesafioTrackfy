@@ -1,28 +1,19 @@
 import SideMenu from '../../components/SideMenu/SideMenu'
 import FilterField from '../../components/FilterField/FilterField'
 import Chart from '../../components/Chart/Chart'
-import styles from './Dashboard.module.css'
-import fetchLocalJson from '../../api/fetchLocalJson'
+import { DataContext } from '../../contexts/Contexts'
 import { getAreaInfo, groupDataByTime, getAreaNamesByType } from '../../utils/jsonManager'
+import styles from './Dashboard.module.css'
 
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useMemo, useContext } from 'react'
 
 import { BiSolidBriefcase } from "react-icons/bi";
 
 function Dashboard() {
 
-  // Carregando dados do JSON local.
-  const [isLoading, setIsLoading] = useState(true);
-  const [data, setData] = useState([]);
-  const [dataInfo, setDataInfo] = useState([]);
-  useEffect(() => {
-    Promise.all([ // Carrega ambos os arquivos JSON em paralelo
-      fetchLocalJson('./src/const/AnexoI.json').then(data => setDataInfo(data)),
-      fetchLocalJson('./src/const/AnexoII.json').then(data => setData(data['dadosPessoas']))
-    ]).finally(() => setIsLoading(false)); // Seta isLoading para false quando ambos forem carregados
-  }, []);
+  const { data, dataInfo } = useContext(DataContext); // Dados dos anexos vindos do contexto
+
   const { areaNames, areaTypes } = useMemo(() => getAreaInfo(dataInfo.areas), [dataInfo.areas]); // Extrai nomes e tipos únicos de áreas
-  // const timeGroupedData = useMemo(() => groupDataByTime(data), [data]); // Agrupa dados por dia e semana
 
   // Hooks para os filtros.
   const [selectedFilters, setSelectedFilters] = useState({
