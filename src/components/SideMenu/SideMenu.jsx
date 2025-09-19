@@ -20,7 +20,7 @@ function SideMenu({page='Dashboard'}) {
                     <span className={`${styles.logoText} ${sideMenuIsOpen ? '' : styles.logoTextHidden}`}>trackfy</span>
                 </div>
                 <span className={styles.iconContainer} onClick={() => setSideMenuIsOpen(!sideMenuIsOpen)}>
-                    <Icon icon={IoIosArrowBack} className={`${styles.iconButton} ${sideMenuIsOpen ? styles.iconButtonRotated : ''}`}/>
+                    <Icon icon={IoIosArrowBack} className={`${styles.iconButton} ${!sideMenuIsOpen ? styles.iconButtonRotated : ''}`}/>
                 </span>
             </header>
 
