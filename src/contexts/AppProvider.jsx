@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react";
-import { DataContext } from "./Contexts";
+import { AppContext } from "./Contexts";
 import fetchLocalJson from '../api/fetchLocalJson'
 
-export default function DataProvider({children}) {
+export default function AppProvider({children}) {
+    const [sideMenuIsOpen, setSideMenuIsOpen] = useState(true);
     const [isLoading, setIsLoading] = useState(true);
     const [data, setData] = useState([]);
     const [dataInfo, setDataInfo] = useState([]);
@@ -18,13 +19,14 @@ export default function DataProvider({children}) {
     const value = {
         data, setData,
         dataInfo, setDataInfo,
-        isLoading, setIsLoading
+        isLoading, setIsLoading,
+        sideMenuIsOpen, setSideMenuIsOpen
     };
 
     return(
         // Assim, qualquer componente filho pode acessar os dados do contexto.
-        <DataContext.Provider value={value}>
+        <AppContext.Provider value={value}>
             {children} 
-        </DataContext.Provider>
+        </AppContext.Provider>
     );
 } 

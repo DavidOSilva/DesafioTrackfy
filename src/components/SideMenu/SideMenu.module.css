@@ -9,6 +9,26 @@
     justify-content: start;
     flex-direction: column;
     gap: 10px;
+    transition: transform 0.3s ease,
+                background-color 0.3s ease,
+                max-width 0.3s ease;
+}
+
+.sideMenuOpen {
+    transform: translateX(0);
+}
+.sideMenuClosed {
+    transform: translateX(0);
+    max-width: 90px;
+}
+
+.header{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    border-bottom: solid 2px #E4E8FB;
 }
 
 .logoContainer {
@@ -19,7 +39,7 @@
     flex-direction: row;
     gap: 8px;
     padding: 20px 0px;
-    border-bottom: solid 2px #E4E8FB;
+    
 }.logoImage{
     height: 35px;
     width: auto;
@@ -31,20 +51,52 @@
     user-select: none;   /* impede seleção de texto */
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    width: 98px;
+}.logoTextHidden {
+    width: 0;
 }
 
+.iconContainer {
+    background-color: #ffffffca;
+    border: 2px solid #f0efef;
+    border-radius: 8px;
+    padding: 4px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}.iconContainer:active {
+    transform: scale(0.95);
+}
+.iconButton {
+    display: flex;
+    align-items: center;
+    color: #414141;
+    transition: all 0.3s ease;
+    font-size: 15px;
+}.iconButtonRotated {
+    transform: rotate(180deg);
+}.iconContainer:active .iconButton {
+    transform: scale(0.95);
+}
 
 .sectionTitle{
     display: flex;
+    justify-content: start;
     width: 100%;
     font-size: 18px;
     font-weight: 400;
     color: #AAAEAF;
     font-family: "Gabarito", sans-serif;
-    margin-top: 20px;
     user-select: none;   /* impede seleção de texto */
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none;
+    overflow: hidden;
+    margin-top: 20px;
+    padding: 10px 15px;
+    white-space: nowrap;       /* impede quebra de linha */
+    text-overflow: ellipsis;   /* adiciona "..." no final */
+    transition: all 0.3s ease;
 }
 
 
@@ -76,6 +128,9 @@
     color: #0823AD;
 }.optionSelected {
     background-color: #ebeefe;
+}
+.centralized{
+    width: fit-content;
 }
 
 

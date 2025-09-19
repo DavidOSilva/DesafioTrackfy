@@ -1,7 +1,7 @@
 import SideMenu from '../../components/SideMenu/SideMenu'
 import FilterField from '../../components/FilterField/FilterField'
 import Chart from '../../components/Chart/Chart'
-import { DataContext } from '../../contexts/Contexts'
+import { AppContext } from '../../contexts/Contexts'
 import { getAreaInfo, groupDataByTime, getAreaNamesByType } from '../../utils/jsonManager'
 import styles from './Dashboard.module.css'
 
@@ -11,7 +11,7 @@ import { BiSolidBriefcase } from "react-icons/bi";
 
 function Dashboard() {
 
-  const { data, dataInfo } = useContext(DataContext); // Dados dos anexos vindos do contexto
+  const { data, dataInfo } = useContext(AppContext); // Dados dos anexos vindos do contexto
 
   const { areaNames, areaTypes } = useMemo(() => getAreaInfo(dataInfo.areas), [dataInfo.areas]); // Extrai nomes e tipos únicos de áreas
 

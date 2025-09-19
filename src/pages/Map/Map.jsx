@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import SideMenu from '../../components/SideMenu/SideMenu'
-import { DataContext } from '../../contexts/Contexts'
+import { AppContext } from '../../contexts/Contexts'
 import Icon from '../../components/Icon/Icon'
 import styles from './Map.module.css'
 
@@ -12,7 +12,7 @@ import { useState, useContext, useMemo } from 'react'
 
 function Map() {
 
-  const { data, dataInfo } = useContext(DataContext); // Dados dos anexos vindos do contexto
+  const { data, dataInfo } = useContext(AppContext); // Dados dos anexos vindos do contexto
 
   // Calcula o total de pessoas por área
   const totalPeoplePerArea = useMemo(() => {

@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import DataProvider from './contexts/DataProvider'
+import AppProvider from './contexts/AppProvider'
 
 // Paginas
 import Dashboard from './pages/Dashboard/Dashboard'
@@ -10,7 +10,7 @@ function App() {
 
   return (
     
-    <DataProvider>
+    <AppProvider>
       <Router>
         <Routes>
           <Route index element={<Dashboard/>} />
@@ -18,7 +18,7 @@ function App() {
           <Route path="/mapa" element={<Map />} />
         </Routes>
       </Router>
-    </DataProvider>
+    </AppProvider>
     
   )
 }
