@@ -223,7 +223,10 @@ function Chart({ data = [], time="Day", onTimeChange = () => {}, areaNames = [] 
                                 Week: { label: '', icon: "fi fi-br-calendar-week" },
                         }}
                         value={time}
-                        onChange={(newTime) => onTimeChange && onTimeChange('time', [newTime])}
+                        onChange={(newTime) => {
+                                setSelectedFilters({...selectedFilters, instantsTime: []}); // Limpa o filtro de instantes de tempo
+                                onTimeChange && onTimeChange('time', [newTime]);
+                        }}
                         legend="Período de exibição"
                     />
                     <ToggleSelector
